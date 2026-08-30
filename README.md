@@ -24,6 +24,28 @@ I build and validate avalanche-photodiode / SPAD device models in TCAD, alongsid
 ![Lumerical](https://img.shields.io/badge/Lumerical-FDTD-005baa?style=for-the-badge)
 ![LTspice](https://img.shields.io/badge/LTspice-SPICE-8B0000?style=for-the-badge)
 
+# 🚀 Featured Projects
+
+### 🧮 [Epistack](https://github.com/YousefRamyUH/Epistack)
+Open-source semiconductor **device calculator & band-diagram tool** written in C —
+equation solvers, device-structure definition, and I–V / band-diagram plotting for
+diodes, MOSFETs, BJTs, LEDs, and Zener diodes. Built as an educational tool, aimed
+at nanoHUB.  
+`C` · in development
+
+### 🔴 Silicon Reach-Through APD / SPAD — 905 nm
+TCAD (Silvaco ATLAS) device model of a reach-through avalanche photodiode for LiDAR.  
+*Full writeup & figures of merit coming soon.*
+
+### 🟣 GaAs Reach-Through APD — 850 nm
+Direct-gap avalanche photodiode model, bridging the Si and InGaAs device studies.  
+*Full writeup & figures of merit coming soon.*
+
+### 🟢 InGaAs/InP SAGCM SPAD — 1550 nm
+Single-photon detector for quantum communication; separate-absorption-grading-
+charge-multiplication design that works around the narrow InGaAs bandgap.  
+*Full writeup & figures of merit coming soon.*
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Marwan-Ahmed-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Marwan-Ahmed-cmd&theme=dark&hide_border=false)<br/>
